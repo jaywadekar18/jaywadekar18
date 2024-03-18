@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jay wadekar</h1>
 <h3 align="center">Frontend Developer @ Accenture</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱  I’m currently Learning **Next.js**
 
-- 📜 I’m currently working on personal project [a Full stack chat app](https://github.com/jaywadekar18/chat-app)
+- 🔭  I’m currently Working on **React** and **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://jaywadekar.netlify.app/](https://jaywadekar.netlify.app/)
 
-- 💬 Ask me about **react, angular**
+- 💬 Ask me about **Frontend Development, Javascript, Node**
 
 - 📫 How to reach me **jaywadekar18@gmail.com**
 
@@ -23,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaywadekar18&show_icons=true&locale=en&layout=compact" alt="jaywadekar18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaywadekar18&show_icons=true&locale=en" alt="jaywadekar18" /></p>
-
