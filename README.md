@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer @ McKinsey & Company</h3>
 
 
-- 🔭  I’m currently Working on **React**,**NestJS** and **Typescript**
+- 🔭  I’m currently Working on **React**, **NestJS** and **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://jaywadekar.netlify.app/](https://jaywadekar.netlify.app/)
 
